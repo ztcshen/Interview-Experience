@@ -1,0 +1,8 @@
+线程池的主要作用是降低系统的开销，提高线程的可控性。
+
+
+
+
+java中的线程池是是 ThreadPoolExecutorTest
+
+java中有一个 Executors工具类，可以创建一个
